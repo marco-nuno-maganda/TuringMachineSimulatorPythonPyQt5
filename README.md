@@ -4,8 +4,11 @@ Polytechnic University of Victoria, Victoria, Tamaulipas, Mexico
 
 ----------------------------------
 Supervisor:
+
 Marco Aurelio Nuño-Maganda
+
 Programmers: 
+
 1) Ordoñez Cruz Osiel Alejandro
 2) Ortega Lujano Humberto Erubiel
 3) Ramirez Alberto Liliana
